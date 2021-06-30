@@ -1,2 +1,2 @@
 # nodejs-uploadfile
-use nodejs save file uploaded by fontend
+upload file and store the file under /uploads
